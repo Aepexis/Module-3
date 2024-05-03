@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4698957-da36-480e-ba5f-057fbc2708d9" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Pseudo Module3.txt" afterDir="false" />
+    <list default="true" id="a4698957-da36-480e-ba5f-057fbc2708d9" name="Changes" comment="Pseudo code add">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,9 @@
     "assignee": "Aepexis"
   }
 }]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="ccde9b20-5fe0-4aa0-9f31-05484f4f850e" />
+  </component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Aepexis/Module-3",
@@ -42,7 +45,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Rtuck/IdeaProjects/Module 3/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/Rtuck/IdeaProjects/Module 3/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager">
@@ -76,7 +80,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714751408527</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Pseudo code add">
+      <option name="closed" value="true" />
+      <created>1714757640542</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714757640542</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Pseudo code add" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pseudo code add" />
   </component>
 </project>
