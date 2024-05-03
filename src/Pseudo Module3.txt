@@ -1,0 +1,11 @@
+Scanner
+
+Income integers
+Tax Rates doubles
+
+Income Ranges
+0 to 499 get 10% tax rate
+500 to 1499 get 15% tax rate
+1500 to 2499 get 20% tax rate
+2500 to infinity get 30% tax rate
+
